@@ -1,5 +1,3 @@
-"use strict"
-
 const complexListElement = document.querySelector('#categories');
 
 console.log(`Number of categories: ${complexListElement.children.length}`);

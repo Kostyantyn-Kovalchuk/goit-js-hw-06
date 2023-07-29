@@ -1,5 +1,3 @@
-"use strict";
-
 const inputFieldElement = document.querySelector("#name-input");
 const displayedNameElement = document.querySelector("#name-output");
 

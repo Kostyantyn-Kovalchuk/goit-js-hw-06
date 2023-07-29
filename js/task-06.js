@@ -1,5 +1,3 @@
-"use strict";
-
 const inputElement = document.querySelector("#validation-input");
 
 inputElement.addEventListener("blur", handleEvent);
